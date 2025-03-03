@@ -1,0 +1,136 @@
+┌──(kali㉿kali)-[~/recopilacion/smule.com/0224]
+└─$ subzy run --targets subdominios_vivos.txt                               
+[ * ] Fingerprints found; checking integrity with an upstream
+[ * ] Loaded 94 targets
+[ * ] Loaded 76 fingerprints
+[ No ] HTTPS by default (--https)
+[ 10 ] Concurrent requests (--concurrency)
+[ No ] Check target only if SSL is valid (--verify_ssl)
+[ 10 ] HTTP request timeout (in seconds) (--timeout)
+[ No ] Show only potentially vulnerable subdomains (--hide_fails)
+[ NOT VULNERABLE ]  -  https://c-fa.cdn.smule.com
+[ NOT VULNERABLE ]  -  https://ds.smule.com
+[ NOT VULNERABLE ]  -  https://blog.smule.com
+[ NOT VULNERABLE ]  -  https://c-sf.smule.com
+[ NOT VULNERABLE ]  -  https://api-iris.smule.com
+[ NOT VULNERABLE ]  -  https://api-beta.smule.com
+[ NOT VULNERABLE ]  -  https://api-piano.smule.com
+[ NOT VULNERABLE ]  -  https://admin.smule.com
+[ NOT VULNERABLE ]  -  https://ftp.smule.com
+[ NOT VULNERABLE ]  -  https://c-sg.smule.com
+[ NOT VULNERABLE ]  -  https://c-int-ash.smule.com
+[ NOT VULNERABLE ]  -  https://api-sing.smule.com
+[ NOT VULNERABLE ]  -  https://c-int-sf.smule.com
+[ NOT VULNERABLE ]  -  https://c-ash.smule.com
+[ NOT VULNERABLE ]  -  https://api4.smule.com
+[ NOT VULNERABLE ]  -  https://api5.smule.com
+-----------------
+[ VULNERABLE ]  -  https://api-staging.smule.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  https://c-t2.cdn.gcp.smule.com
+[ NOT VULNERABLE ]  -  https://c-t1.cdn.gcp.smule.com
+[ NOT VULNERABLE ]  -  https://corp.smule.com
+[ NOT VULNERABLE ]  -  https://forum.smule.com
+[ NOT VULNERABLE ]  -  https://api2.smule.com
+[ NOT VULNERABLE ]  -  https://c-cl.cdn.smule.com
+[ NOT VULNERABLE ]  -  https://app.smule.com
+-----------------
+[ VULNERABLE ]  -  https://admin-test.smule.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  https://glee.smule.com
+-----------------
+[ VULNERABLE ]  -  https://email.smule.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  https://api1.smule.com
+[ NOT VULNERABLE ]  -  https://c-t4.cdn.gcp.smule.com
+[ NOT VULNERABLE ]  -  https://glee-test.smule.com
+-----------------
+[ VULNERABLE ]  -  https://j-int.smule.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  https://c-t3.cdn.gcp.smule.com
+[ NOT VULNERABLE ]  -  https://api.smule.com
+[ NOT VULNERABLE ]  -  https://glee-app.smule.com
+-----------------
+[ VULNERABLE ]  -  https://links.marketing.smule.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  https://git.smule.com
+[ NOT VULNERABLE ]  -  https://glee-staging.smule.com
+[ NOT VULNERABLE ]  -  https://iamtpain-staging.smule.com
+[ NOT VULNERABLE ]  -  https://iamtpain-int.smule.com
+[ NOT VULNERABLE ]  -  https://legacy.cdn.smule.com
+[ NOT VULNERABLE ]  -  https://link.smule.com
+[ NOT VULNERABLE ]  -  https://link-test.smule.com
+[ NOT VULNERABLE ]  -  https://p.smule.com
+[ NOT VULNERABLE ]  -  https://ocarina-test.smule.com
+[ NOT VULNERABLE ]  -  https://api-autorap.smule.com
+[ NOT VULNERABLE ]  -  https://iamtpain-test.smule.com
+[ NOT VULNERABLE ]  -  https://cf-pv.tc.smule.com
+[ NOT VULNERABLE ]  -  http://j.smule.com
+[ NOT VULNERABLE ]  -  https://iamtpain.smule.com
+[ NOT VULNERABLE ]  -  https://c-int.cdn.gg.smule.com
+[ NOT VULNERABLE ]  -  https://ocarina-app.smule.com
+[ NOT VULNERABLE ]  -  https://lt.smule.com
+[ NOT VULNERABLE ]  -  https://s-sf.tc.smule.com
+[ NOT VULNERABLE ]  -  https://ocarina.smule.com
+[ NOT VULNERABLE ]  -  https://mk.smule.com
+[ NOT VULNERABLE ]  -  https://static1.smule.com
+[ NOT VULNERABLE ]  -  https://s.smule.com
+[ NOT VULNERABLE ]  -  https://ocarina-staging.smule.com
+[ NOT VULNERABLE ]  -  https://s3.smule.com
+[ NOT VULNERABLE ]  -  http://j-test.smule.com
+[ NOT VULNERABLE ]  -  https://s-sg.tc.smule.com
+[ NOT VULNERABLE ]  -  https://static2.smule.com
+[ NOT VULNERABLE ]  -  http://jc.smule.com
+[ NOT VULNERABLE ]  -  https://s4.smule.com
+[ NOT VULNERABLE ]  -  https://s1.smule.com
+[ NOT VULNERABLE ]  -  https://s-beta.smule.com
+[ NOT VULNERABLE ]  -  https://static3.smule.com
+[ NOT VULNERABLE ]  -  https://smule.com
+[ NOT VULNERABLE ]  -  https://superbowl.smule.com
+[ NOT VULNERABLE ]  -  https://w1-fa.cdn.smule.com
+[ NOT VULNERABLE ]  -  https://tracking.smule.com
+[ NOT VULNERABLE ]  -  https://test.cdn.smule.com
+-----------------
+[ VULNERABLE ]  -  https://w1-beta.smule.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  https://status.smule.com
+[ NOT VULNERABLE ]  -  https://w2.smule.com
+[ NOT VULNERABLE ]  -  https://s2.smule.com
+[ NOT VULNERABLE ]  -  https://w1-beta.tc.smule.com
+-----------------
+[ VULNERABLE ]  -  https://w1-fa-beta.cdn.smule.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  https://widget.smule.com
+[ NOT VULNERABLE ]  -  https://tpain.smule.com
+[ NOT VULNERABLE ]  -  https://www.smule.com
+-----------------
+[ VULNERABLE ]  -  https://w2-beta.smule.com  [ Cargo Collective ]
+[ DISCUSSION ]  -  [Issue #152](https://github.com/EdOverflow/can-i-take-over-xyz/issues/152)
+[ DOCUMENTATION ]  -  [Cargo Support Page](https://support.2.cargocollective.com/Using-a-Third-Party-Domain)
+-----------------
+[ NOT VULNERABLE ]  -  https://w1.smule.com
+[ NOT VULNERABLE ]  -  https://www-staging.smule.com
+[ NOT VULNERABLE ]  -  https://web.smule.com
+[ NOT VULNERABLE ]  -  https://www-int.smule.com
+[ NOT VULNERABLE ]  -  https://www-test.smule.com
+[ NOT VULNERABLE ]  -  https://w1-sf.smule.com
+[ NOT VULNERABLE ]  -  https://w1.tc.smule.com
+[ NOT VULNERABLE ]  -  https://www-beta.smule.com
+[ NOT VULNERABLE ]  -  https://y-sg.smule.com
+[ NOT VULNERABLE ]  -  https://y-sf.smule.com
+[ NOT VULNERABLE ]  -  https://zen.smule.com
+[ HTTP ERROR ]  -  https://www.ocarina.smule.com
