@@ -1,4 +1,3 @@
-www.smule.com
 smule.com
 c-sf.smule.com
 gcp.smule.com
@@ -25,8 +24,6 @@ w1.tc.smule.com
 api-iris.smule.com
 c-int-ash.smule.com
 api-piano.smule.com
-10.72.180.60www.smule.com
-www.smule.comwww.smule.com
 api-beta.smule.com
 khush.smule.com
 cf-pv.tc.smule.com
@@ -47,6 +44,3 @@ blog-test.smule.com
 y-sg.smule.com
 y-sf.smule.com
 blog-new.smule.com
-www.Smule.com
-Smule.com
-Www.Smule.com
